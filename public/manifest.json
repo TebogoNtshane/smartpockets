@@ -1,0 +1,10 @@
+{
+  "name": "SmartPockets",
+  "short_name": "SmartPockets",
+  "description": "Community stokvel savings, automatic roundups and a money co-pilot.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F6F4EF",
+  "theme_color": "#F6F4EF",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
